@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+grpcio==1.50.0
+tensorflow-metal
+tensorflow-macos
+tf-explain
