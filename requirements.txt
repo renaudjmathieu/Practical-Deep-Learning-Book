@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+scipy
 tensorflow-metal
 tensorflow-macos
 opencv-python
