@@ -214,5 +214,8 @@ pip-selfcheck.json
 # Python Virtual Environment
 practicaldl/
 
+# large datasets
+kaggle
+
 
 # End of https://www.gitignore.io/api/python
